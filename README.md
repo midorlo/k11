@@ -1,6 +1,6 @@
 # k11
 
-This application was generated using JHipster 7.2.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.2.0](https://www.jhipster.tech/documentation-archive/v7.2.0).
+[![Build](https://github.com/midorlo/k11/actions/workflows/github-actions.yml/badge.svg)](https://github.com/midorlo/k11/actions/workflows/github-actions.yml)
 
 ## Development
 
